@@ -1,0 +1,40 @@
+body{
+    background-color: #A9DFBF
+}
+
+#container{
+    font-family: 'Jua', sans-serif; 
+    font-size: 31px;
+    margin: 30px;
+    color: #515A5A;
+}
+
+#title{
+    font-family: 'Concert One', cursive;
+    font-size: 90px;
+    text-align: center;
+    color: #2ECC71;
+}
+
+#text{ 
+    text-align: justify;
+}
+
+#creator{
+    position: absolute; 
+    right: 0;
+    margin-right: 30px;
+}
+
+#img{
+    height: 100%;
+    width: 70%;
+    border-radius: 50px;
+}
+
+#img-container{
+    text-align: center;
+    margin-top: 30px;
+}
+
+
